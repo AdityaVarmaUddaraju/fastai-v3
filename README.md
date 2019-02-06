@@ -11,3 +11,7 @@ The guide for production deployment to Render is at https://course.fast.ai/deplo
 check it out at 
 
 https://animeorcartoon.onrender.com/
+
+and the code i used to train the model can be found in the link below
+
+https://github.com/AdityaVarmaUddaraju/anime_or_cartoon/blob/master/anime_cartoon_classifier.ipynb
